@@ -1,12 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Cinelist - Catálogo de Filmes</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    
+     <!-- Navbar Fixa -->
+     <header class="header">
+        <nav class="navbar">
+            <div class="logo-container">
+                <img src="cinelist.jpg" alt="Cinelist Logo" class="logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#destaques">Destaques</a></li>
+                <li><a href="#filmes">Filmes</a></li>
+                <li><a href="#favoritos">Favoritos</a></li>
+            </ul>
+            <form class="search-form">
+                <input type="text" placeholder="Buscar filmes..." class="search-input">
+                <button type="submit" class="search-button">🔍</button>
+            </form>
+        </nav>
+    </header>
 </body>
 </html>

@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Davi Araujo Dias
+- Matricula: 1112700
+- Proposta de projeto escolhida: Catalogo de Filmes 
+- Breve descrição sobre seu projeto:sera um site onde as pessoas entrariam para ver indicações de filmes, cada filmes teria sua sinopse e avaliação onde as pessoas conseguiram ver as indicações sobre o filme escolhido.
 
 
 ## Print do esboço criada
 
 <<  COLOQUE A IMAGEM AQUI >>
-
+![esboço do projeto](esboço.png)
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+![home page do site](homepage.png)
